@@ -1,6 +1,6 @@
 {
   "serverHost": "MC-fireSMP.aternos.me:20489",
-  "serverPort": 12345,
+  "serverPort": 25565,
   "botUsername": "AFK",
   "botChunk": 1
 }
